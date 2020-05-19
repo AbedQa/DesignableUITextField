@@ -8,4 +8,4 @@ I will explain it now in the points listed below
 5- add padding for icon image  
 6- add clicking for leading and trailing icon image  
 7- add specific color for some part of placeholder  
-You can added more your custom feature
+# You can added more your custom feature
